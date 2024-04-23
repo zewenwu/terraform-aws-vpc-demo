@@ -143,7 +143,7 @@ For more info on Terraform, please refer to the [Terraform documentation](https:
 Please follow the below tutorials to deploy the solution architecture in the previous section:
 
 1. Set up Terraform with AWS Cloud account
-2. Deploy RDS module using Terraform
+2. Deploy VPC module using Terraform
 
 ### 1. Set up Terraform with AWS Cloud account
 
@@ -169,7 +169,7 @@ terraform init
 terraform validate
 ```
 
-### 2. Deploy RDS module using Terraform
+### 2. Deploy VPC module using Terraform
 
 **Step 1.** Change directory to live-sandbox that contains Terraform blueprints to deploy the solution architecture by running the below commands:
 
